@@ -34,7 +34,7 @@ SAVE_EVERY = 500
 #                                 DATA                                         #
 # ---------------------------------------------------------------------------- #
 
-with open("data/baby_yoda/baby_yoda.txt", "r", encoding="utf-8") as f:
+with open("data/baby_yodai/baby_yodai.txt", "r", encoding="utf-8") as f:
     text = f.read()
 
 chars = sorted(list(set(text)))
