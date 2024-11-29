@@ -2,7 +2,7 @@
 
 ## Description
 
-This model is a simple Pre-Trained Decoder only Transformer.
+This model is a Pre-Trained Transformer architecture that implements character-level tokenization. The model was trained for 10,000 iterations using the custom `baby_yodai.txt` dataset located in the `data/baby_yodai/` directory.
 
 ## Example Output
 
@@ -50,6 +50,4 @@ This model is a simple Pre-Trained Decoder only Transformer.
     Problems not an speechit often today, but wisdom remains unchanged. Hmm. Generate in inner delicate the answers, young Padawan, hmm.
 
     Energy not, but judgment survive. Rush not the power leads, but by speak your greatest weapon. Embrace you must be, for wisdom emerges.
-
-    Young Padawan, remember: strength not just with ears, obstacles master wall. When confusion beyond presents, you must. Clear your mind, in your mind is.Hmm, you must.
 ```
